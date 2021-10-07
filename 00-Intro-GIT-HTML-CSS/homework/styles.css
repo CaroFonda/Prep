@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: coral;
+    padding: 50px;
+    border: black 4px solid;
+}
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
+body {
+   background: url(./Images/background\ image\ 2.jpg);
+}

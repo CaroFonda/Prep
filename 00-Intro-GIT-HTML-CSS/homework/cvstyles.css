@@ -1,0 +1,38 @@
+img {
+    width: 150px;
+    height: auto;
+    border: black 2px solid;
+}
+h1 {
+    font-weight: bold;
+}
+h2 {
+    background-color: darkgray;
+}
+h3 {
+    font-style: italic;
+    color: indigo;
+}
+#Presentasión {
+    font-style: italic;
+    font-size: 18px;
+}
+.Experiencia {
+    font-weight: bold;
+    color: rgb(53, 9, 122);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18;
+}
+.Años {
+    font-weight: bold;
+    color: rgb(59, 58, 58);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16;
+}
+.Institución {
+    font-weight: bold;
+}
+#Contacto {
+    background-color: cadetblue;
+    font-weight: bold;
+}
